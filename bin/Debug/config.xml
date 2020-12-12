@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceDirectory>C:\BSUIR\C#\LabDeCSharp\SourceDirectory</SourceDirectory>
+  <TargetDirectory>C:\BSUIR\C#\LabDeCSharp\TargetDirectory</TargetDirectory>
+  <ArchiveDirectory>C:\BSUIR\C#\LabDeCSharp\ArchiveDirectory</ArchiveDirectory>
+</Options>

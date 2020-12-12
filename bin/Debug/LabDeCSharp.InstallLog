@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\BSUIR\C#\LabDeCSharp\bin\Debug\LabDeCSharp.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\BSUIR\C#\LabDeCSharp\bin\Debug\LabDeCSharp.exe
+   logfile = C:\BSUIR\C#\LabDeCSharp\bin\Debug\LabDeCSharp.InstallLog
+Устанавливается служба LabDeCSharp...
+Служба LabDeCSharp успешно установлена.
+Создается исходный EventLog LabDeCSharp в журнале Application...
+Выполняется фиксация сборки 'C:\BSUIR\C#\LabDeCSharp\bin\Debug\LabDeCSharp.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\BSUIR\C#\LabDeCSharp\bin\Debug\LabDeCSharp.exe
+   logfile = C:\BSUIR\C#\LabDeCSharp\bin\Debug\LabDeCSharp.InstallLog
